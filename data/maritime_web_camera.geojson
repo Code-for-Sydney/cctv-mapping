@@ -1,0 +1,305 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Maritime_Web_Camera",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 149.9186463814, -36.8885642128 ]
+			},
+			"properties" : {
+				"LOCATION" : "Merimbula",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/merimbula.html",
+				"WEB_CAMERA_ID" : 1,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/3d3a9ea9-8000-4d4e-9e87-5de98f2a15e0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.0732056724, -36.4260499344 ]
+			},
+			"properties" : {
+				"LOCATION" : "Bermagui",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/bermagui.html",
+				"WEB_CAMERA_ID" : 2,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/afdc038f-b8f6-466d-be38-a561260a45cb"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.1761538766, -32.7205324727 ]
+			},
+			"properties" : {
+				"LOCATION" : "Shoal Bay - Port Stephens",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/shoal-bay.html",
+				"WEB_CAMERA_ID" : 3,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/364ee26f-ad27-4713-93dd-fcf0f849541e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 148.7078756115, -36.040845059 ]
+			},
+			"properties" : {
+				"LOCATION" : "Lake Eucumbene",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/eucumbene.html",
+				"WEB_CAMERA_ID" : 4,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/ee7e9e78-c228-4868-864c-8e8477a195c4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.0411802525, -30.8830643505 ]
+			},
+			"properties" : {
+				"LOCATION" : "South West Rocks",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/south-west-rocks-macleay-river.html",
+				"WEB_CAMERA_ID" : 5,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/4331f3b4-3583-4bfa-b4b0-9b65c3a820dc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.0241203319, -30.8753972807 ]
+			},
+			"properties" : {
+				"LOCATION" : "South West Rocks - Macleay River",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/south-west-rocks-macleay-river.html",
+				"WEB_CAMERA_ID" : 6,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/ea2bf350-48d7-4017-b8d9-29a24da1785f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.009998868, -30.6500000146 ]
+			},
+			"properties" : {
+				"LOCATION" : "Nambucca Heads",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/nambucca-heads.html",
+				"WEB_CAMERA_ID" : 7,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/1dbb0315-6607-4e07-9aed-00a6bd269915"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.1352447946, -30.3095776305 ]
+			},
+			"properties" : {
+				"LOCATION" : "Coffs Harbour",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/coffs-harbour.html",
+				"WEB_CAMERA_ID" : 8,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/c84385c2-10bb-499b-9c23-0542bff3210c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.833793693, -31.6358959314 ]
+			},
+			"properties" : {
+				"LOCATION" : "Camden Haven",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/camden-haven.html",
+				"WEB_CAMERA_ID" : 9,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/f4dfde16-760e-4a34-b455-43519186eeeb"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.9167776635, -31.4294480419 ]
+			},
+			"properties" : {
+				"LOCATION" : "Port Macquarie",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/port-macquarie.html",
+				"WEB_CAMERA_ID" : 10,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/7c3cc779-daa6-48e6-9eed-c102efd59038"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.1319998164, -36.2127001915 ]
+			},
+			"properties" : {
+				"LOCATION" : "Narooma",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/narooma.html",
+				"WEB_CAMERA_ID" : 11,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/fe86b545-d2c7-480d-9842-1f0e8f31dab8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.1509249478, -35.9072808281 ]
+			},
+			"properties" : {
+				"LOCATION" : "Moruya",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/moruya.html",
+				"WEB_CAMERA_ID" : 12,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/4fca2d26-c6af-493a-9f22-b2b2dac9b803"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.1967249867, -35.7187019303 ]
+			},
+			"properties" : {
+				"LOCATION" : "Batemans Bay",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/batemans-bay.html",
+				"WEB_CAMERA_ID" : 13,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/4497b0d4-769e-4084-9e18-0bf1a46203bd"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.5900441869, -35.1701223037 ]
+			},
+			"properties" : {
+				"LOCATION" : "Sussex Inlet",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/sussex-inlet.html",
+				"WEB_CAMERA_ID" : 14,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/fd63fb0e-1846-457f-9594-90f54b037b99"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.5558636978, -28.5386330851 ]
+			},
+			"properties" : {
+				"LOCATION" : "Brunswick Heads",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/brunswick-heads.html",
+				"WEB_CAMERA_ID" : 15,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/db6bcca9-545e-4575-95ee-a5b1d4786f63"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.5508048276, -28.1650215329 ]
+			},
+			"properties" : {
+				"LOCATION" : "Tweed Heads",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/tweed-heads.html",
+				"WEB_CAMERA_ID" : 16,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/ebe03351-5116-4987-9e59-52776a7b3af2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.3589458597, -29.4226637232 ]
+			},
+			"properties" : {
+				"LOCATION" : "Iluka/Yamba",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/iluka-yamba.html",
+				"WEB_CAMERA_ID" : 17,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/26f42761-cece-45f3-94c8-5edb9508dee1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.4389985929, -29.114999027 ]
+			},
+			"properties" : {
+				"LOCATION" : "Evans Head",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/evans-head.html",
+				"WEB_CAMERA_ID" : 18,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/a7e20076-4e9e-4239-8529-ee3389a718ad"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.5919978346, -28.8678996804 ]
+			},
+			"properties" : {
+				"LOCATION" : "Ballina",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/ballina.html",
+				"WEB_CAMERA_ID" : 19,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/76818de6-1bc6-44d2-943a-3a905ee9c132"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.6644132444, -33.0880608733 ]
+			},
+			"properties" : {
+				"LOCATION" : "Swansea",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/swansea.html",
+				"WEB_CAMERA_ID" : 20,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/5bb0d918-2423-4b5c-9840-c6599108523e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.5512081438, -28.1706138882 ]
+			},
+			"properties" : {
+				"LOCATION" : "Tweed Heads entrance",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/tweed-heads-entrance.html",
+				"WEB_CAMERA_ID" : 22,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/6321b2c5-7545-49d1-83b3-a10fd2c8926b"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.5091591816, -32.1754771608 ]
+			},
+			"properties" : {
+				"LOCATION" : "Forster",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/forster.html",
+				"WEB_CAMERA_ID" : 21,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/2bb39d41-38bd-4808-9c52-d4fee1525d0b"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.584646227, -28.2576514784 ]
+			},
+			"properties" : {
+				"LOCATION" : "Cudgen",
+				"LINK" : "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/conditions/web-cameras/cudgen.html",
+				"WEB_CAMERA_ID" : 23,
+				"LIVE_FEED" : "https://widget.coastalcoms.com/video/73a52fac-d291-42be-a1f1-dd859c5dd28f"
+			}
+		}
+	]
+}
