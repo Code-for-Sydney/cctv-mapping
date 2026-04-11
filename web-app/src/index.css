@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+@import 'maplibre-gl/dist/maplibre-gl.css';
+
+:root {
+  --primary-color: #0f172a;
+  --accent-color: #38bdf8;
+  --text-color: #f8fafc;
+  --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Outfit', sans-serif;
+  background: var(--bg-gradient);
+  color: var(--text-color);
+  overscroll-behavior: none;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Glassmorphism Header */
+.header {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(15, 23, 42, 0.7);
+  backdrop-filter: blur(12px);
+  padding: 1rem 2rem;
+  border-radius: 99px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+  background: linear-gradient(to right, #38bdf8, #818cf8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Tooltip / Popup Customization */
+.maplibregl-popup-content {
+  background: rgba(30, 41, 59, 0.9) !important;
+  backdrop-filter: blur(8px);
+  color: #fff !important;
+  border-radius: 12px !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3) !important;
+  padding: 12px 16px !important;
+  font-family: 'Outfit', sans-serif !important;
+}
+
+.maplibregl-popup-tip {
+  border-bottom-color: rgba(30, 41, 59, 0.9) !important;
+  border-top-color: rgba(30, 41, 59, 0.9) !important;
+}
+
+.popup-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 4px 0;
+  color: #38bdf8;
+}
+
+.popup-desc {
+  font-size: 0.9rem;
+  margin: 0;
+  color: #cbd5e1;
+}
+
+.popup-video {
+  width: 100%;
+  max-width: 320px;
+  margin-top: 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  display: block;
+}
+
+.popup-timestamp {
+  font-size: 0.75rem;
+  color: #94a3b8;
+  margin-top: 4px;
+  text-align: right;
+  font-family: monospace;
+}
+
+/* Marker Animation */
+.pulse-marker {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.pulse-marker:hover {
+  transform: scale(1.4);
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+  z-index: 5;
+}
+
+.marker-safety {
+  background-color: #38bdf8;
+  border: 2px solid #fff;
+}
+
+.marker-traffic {
+  background-color: #f43f5e;
+  border: 2px solid #fff;
+}
