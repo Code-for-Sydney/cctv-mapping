@@ -1,0 +1,107 @@
+﻿OBJECTID,CAMERA_NO,Precinct,Location,LocalityPrecinct
+215,207,Circular Quay,Pitt St x Alfred St,Circular Quay
+216,206,Circular Quay,George St x Alfred St,Circular Quay
+217,209,Circular Quay,Alfred St x Phillip St,Circular Quay
+218,203,Circular Quay,George St x Argyle St,The Rocks
+219,202,Circular Quay,George St x Hickson Rd,The Rocks
+220,204,Circular Quay,Nurses walk,The Rocks
+221,201,Circular Quay,Campbell Cove,The Rocks
+222,210,Transport centre,George St x Hunter St,George Street
+223,212,Entertainment,King St x George St,George Street
+224,211,Entertainment,King St x York St,George Street
+225,214,Commercial,Market St x George St,George Street
+226,213,Commercial,King St x Pitt St,Pitt Street Mall
+227,220,Entertainment,Pitt St x Park St,Town Hall Precinct
+228,221,Parkland,Park St – Hyde Pk South,Hyde Park South
+229,218,Sydney Town Hall,Sydney Square – top,Sydney Square - STH
+230,219,Sydney Town Hall,Sydney Square – bottom,Sydney Square - STH
+231,222,Parkland,College St x William St,Cook and Phillip Park
+232,224,Parkland,St Mary’s Rd x Cathedral St,Cook and Phillip Park
+233,223,Parkland,Cathedral St,Cook and Phillip Park
+234,226,Parkland,Woolloomooloo Walk,Cook and Phillip Park
+235,225,Parkland,Boomerang Walk (Yurong Parkway),Cook and Phillip Park
+236,228,Parkland,Anzac Memorial - south,Hyde Park South
+237,227,Parkland,Hyde Park Pool of Reflection,Hyde Park South
+238,229,Parkland,Museum Station,Hyde Park South
+239,231,Entertainment,George St x Wilmot St,George Street Cinema
+240,232,Entertainment,Kent St x Albion Ln,George Street Cinema
+241,233,Entertainment,George St opp Central St,George Street Cinema
+242,230,Entertainment,George St x Bathurst St,George Street Cinema
+243,234,Entertainment,George St x Liverpool St,George Street Cinema
+244,236,Chinatown,Sussex St x Goulburn St,Haymarket
+245,235,Chinatown,Dixon St x Factory St,Haymarket
+246,246,Transport centre,Eddy Ave – Belmore Park South,Belmore Park
+247,245,Parkland,Belmore Park - centre,Belmore Park
+248,244,Parkland,Pitt St x Hay St,Belmore Park
+249,243,Chinatown,George St x Hay St,George Street
+250,239,Chinatown,Harbour St x Little Hay St,Haymarket
+251,241,Chinatown,Dixon St x Hay St,Haymarket
+252,242,Chinatown,Ultimo Rd x Thomas St,Haymarket
+253,240,Chinatown,Dixon St x Little Hay St,Haymarket
+254,238,Commercial,George St x Campbell St,George Street
+255,205,Circular Quay,First Fleet Park,The Rocks
+256,208,Circular Quay,Alfred St x Loftus St,Circular Quay
+257,250,Entertainment,Liverpool St x Pitt St,Liverpool Street
+258,249,Entertainment,Liverpool St - Central local court ,Liverpool Street
+259,217,Sydney Town Hall,George St x Druitt St,George Street
+260,215,Commercial,Market St x Pitt St,Pitt Street Mall
+261,216,Sydney Town Hall,George St x Park St,George Street
+262,237,George Street Safety,George St x Goulburn St,George Street
+263,251,Commercial,Martin Place x Elizabeth St,Martin Place
+264,252,Commercial,Martin Place x Castlereagh St,Martin Place
+265,265,Parkland,Margaret St x York St,Wynyard Station
+266,266,Parkland,Carrington St x Wynyard St,Wynyard Station
+267,254,Commercial,Martin Place x George St,Martin Place
+268,255,Retail,Pitt St Mall - centre,Pitt Street Mall
+269,259,Parkland,Macquarie St x St James Rd,Central Station
+270,260,Parkland,College St x Prince Albert Rd,Pitt Street Mall
+271,258,Parkland,Elizabeth St x Market St,Central Station
+272,257,Parkland,Elizabeth St between Park St & Market St,Hyde Park North
+273,256,Parkland,Elizabeth St x Bathurst St,Hyde Park North
+274,248,Transport centre,George St x Regent St,George Street
+275,261,Parkland,Woolloomooloo Park,Woolloomooloo
+276,275,Entertainment,George St x Grosvenor St,George Street
+277,274,Entertainment,Pitt St x Bridge St,Pitt Street
+278,253,Commercial,Martin Place x Pitt St,Martin Place
+279,267,Entertainment,Oxford St x Wentworth St,Oxford Street
+280,268,Entertainment,Oxford St x Pelican St,Oxford Street
+281,269,Entertainment,Oxford St x Riley St,Oxford Street
+282,270,Entertainment,Oxford St x Crown St,Oxford Street
+283,271,Entertainment,Oxford St x Palmer St,Oxford Street
+284,272,Entertainment,Oxford St x Taylor Sq,Oxford Street
+285,277,Retail,Bay St x Grose St,Glebe
+286,278,Retail,Broadway x City Rd,Glebe
+287,273,Entertainment,Campbell St x Bourke St,Oxford Street
+288,276,Transport centre,Elizabeth St x Foveaux St,Central Station
+289,281,Commercial,Glebe Point Rd ,Glebe
+290,279,Commercial,Town Hall House after hours entry,Sydney Town Hall
+291,280,Commercial,Kent St x Druitt St,Sydney Town Hall
+292,282,Entertainment,Darlinghurst Rd x Macleay St,Kings Cross
+293,283,Entertainment,Springfield Mall,Kings Cross
+294,284,Entertainment,Roslyn St x Kellet St,Kings Cross
+295,285,Entertainment,Darlinghurst Rd,Kings Cross
+296,286,Entertainment,Darlinghurst Rd x Bayswater Rd,Kings Cross
+297,287,Entertainment,Bayswater Rd x Kellet St,Kings Cross
+298,288,Entertainment,Bayswater Rd,Kings Cross
+299,290,Entertainment,Darlinghurst Rd x William St,Kings Cross
+300,262,Commercial,Sussex St x Druitt St,Sydney Town Hall
+301,263,Chinatown,Sussex St x Liverpool St,Haymarket
+302,264,Chinatown,George St x Rawson St,Haymarket
+303,291,Entertainment,William St x Forbes St,Kings Cross
+304,292,Entertainment,William St x Crown St,Kings Cross
+305,293,Commercial,Park St x Castlereagh St,Sydney Town Hall
+306,294,Entertainment,Castlereagh St x Liverpool St,George Street Cinema
+307,295,Chinatown,Pitt St x Goulburn St,Haymarket
+308,296,Entertainment,Darlinghurst Rd x Llankelly Pl,Kings Cross
+309,489,Entertainment,Victoria St – fixed,Kings Cross
+310,289,Entertainment,Darlinghurst Rd x Victoria St,Kings Cross
+311,297,Entertainment,Oxford St x Darlinghurst Rd,Oxford Street
+312,298,Parkland,Cathedral St x Forbes St (Walla Mulla Park),Woolloomooloo
+313,299,Entertainment,Butlers Stairs x Victoria St ,Kings Cross
+314,488,Entertainment,Bayswater Rd Taxi Rank,Kings Cross
+315,474,Circular Quay,Pitt Street North Taxi Rank,Circular Quay
+316,430,Entertainment,Bathurst St Taxi Rank,George Street Cinema
+317,452,Commercial,Pitt St Taxi Rank,Martin Place
+318,453,Commercial,Martin Place Cenotaph East,Martin Place
+319,454,Commercial,Martin Place Cenotaph West,Martin Place
+320,247,Chinatown,Railway Square – George St x Quay St,Railway Square

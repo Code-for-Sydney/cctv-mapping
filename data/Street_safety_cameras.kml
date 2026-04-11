@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr" id="8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="CAMERA_NO" type="int"></SimpleField>
+	<SimpleField name="Precinct" type="string"></SimpleField>
+	<SimpleField name="Location" type="string"></SimpleField>
+	<SimpleField name="LocalityPrecinct" type="string"></SimpleField>
+</Schema>
+<Folder><name>8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">215</SimpleData>
+		<SimpleData name="CAMERA_NO">207</SimpleData>
+		<SimpleData name="Precinct">Circular Quay</SimpleData>
+		<SimpleData name="Location">Pitt St x Alfred St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Circular Quay</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.20896464365,-33.8615792847502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">216</SimpleData>
+		<SimpleData name="CAMERA_NO">206</SimpleData>
+		<SimpleData name="Precinct">Circular Quay</SimpleData>
+		<SimpleData name="Location">George St x Alfred St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Circular Quay</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208148351579,-33.8613871314593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">217</SimpleData>
+		<SimpleData name="CAMERA_NO">209</SimpleData>
+		<SimpleData name="Precinct">Circular Quay</SimpleData>
+		<SimpleData name="Location">Alfred St x Phillip St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Circular Quay</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.212207214369,-33.8616657642948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">218</SimpleData>
+		<SimpleData name="CAMERA_NO">203</SimpleData>
+		<SimpleData name="Precinct">Circular Quay</SimpleData>
+		<SimpleData name="Location">George St x Argyle St</SimpleData>
+		<SimpleData name="LocalityPrecinct">The Rocks</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208870231767,-33.8593469037464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">219</SimpleData>
+		<SimpleData name="CAMERA_NO">202</SimpleData>
+		<SimpleData name="Precinct">Circular Quay</SimpleData>
+		<SimpleData name="Location">George St x Hickson Rd</SimpleData>
+		<SimpleData name="LocalityPrecinct">The Rocks</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.20916291158,-33.8580503580003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">220</SimpleData>
+		<SimpleData name="CAMERA_NO">204</SimpleData>
+		<SimpleData name="Precinct">Circular Quay</SimpleData>
+		<SimpleData name="Location">Nurses walk</SimpleData>
+		<SimpleData name="LocalityPrecinct">The Rocks</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208802121741,-33.8608450128374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">221</SimpleData>
+		<SimpleData name="CAMERA_NO">201</SimpleData>
+		<SimpleData name="Precinct">Circular Quay</SimpleData>
+		<SimpleData name="Location">Campbell Cove</SimpleData>
+		<SimpleData name="LocalityPrecinct">The Rocks</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.209743522498,-33.8572307260631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">222</SimpleData>
+		<SimpleData name="CAMERA_NO">210</SimpleData>
+		<SimpleData name="Precinct">Transport centre</SimpleData>
+		<SimpleData name="Location">George St x Hunter St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207207289821,-33.8654681417877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">223</SimpleData>
+		<SimpleData name="CAMERA_NO">212</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">King St x George St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.20687255282,-33.8686376175673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">224</SimpleData>
+		<SimpleData name="CAMERA_NO">211</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">King St x York St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.205988141729,-33.8687864813449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">225</SimpleData>
+		<SimpleData name="CAMERA_NO">214</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Market St x George St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.206865446004,-33.8706687098672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">226</SimpleData>
+		<SimpleData name="CAMERA_NO">213</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">King St x Pitt St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Pitt Street Mall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.20820944865,-33.8689494814526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">227</SimpleData>
+		<SimpleData name="CAMERA_NO">220</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Pitt St x Park St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Town Hall Precinct</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208022512227,-33.873221056596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">228</SimpleData>
+		<SimpleData name="CAMERA_NO">221</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Park St – Hyde Pk South</SimpleData>
+		<SimpleData name="LocalityPrecinct">Hyde Park South</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.211365511193,-33.8736459881829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">229</SimpleData>
+		<SimpleData name="CAMERA_NO">218</SimpleData>
+		<SimpleData name="Precinct">Sydney Town Hall</SimpleData>
+		<SimpleData name="Location">Sydney Square – top</SimpleData>
+		<SimpleData name="LocalityPrecinct">Sydney Square - STH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.206093381808,-33.8734546430037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">230</SimpleData>
+		<SimpleData name="CAMERA_NO">219</SimpleData>
+		<SimpleData name="Precinct">Sydney Town Hall</SimpleData>
+		<SimpleData name="Location">Sydney Square – bottom</SimpleData>
+		<SimpleData name="LocalityPrecinct">Sydney Square - STH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.205585855021,-33.8733092556434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">231</SimpleData>
+		<SimpleData name="CAMERA_NO">222</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">College St x William St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Cook and Phillip Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.212721339825,-33.8734021845389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">232</SimpleData>
+		<SimpleData name="CAMERA_NO">224</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">St Mary’s Rd x Cathedral St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Cook and Phillip Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.214693685687,-33.8719341218775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">233</SimpleData>
+		<SimpleData name="CAMERA_NO">223</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Cathedral St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Cook and Phillip Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.213395220629,-33.8724457940088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">234</SimpleData>
+		<SimpleData name="CAMERA_NO">226</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Woolloomooloo Walk</SimpleData>
+		<SimpleData name="LocalityPrecinct">Cook and Phillip Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.214821394189,-33.8724841396706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">235</SimpleData>
+		<SimpleData name="CAMERA_NO">225</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Boomerang Walk (Yurong Parkway)</SimpleData>
+		<SimpleData name="LocalityPrecinct">Cook and Phillip Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.214204479206,-33.8734847360709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">236</SimpleData>
+		<SimpleData name="CAMERA_NO">228</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Anzac Memorial - south</SimpleData>
+		<SimpleData name="LocalityPrecinct">Hyde Park South</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.211151096088,-33.8763329049231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">237</SimpleData>
+		<SimpleData name="CAMERA_NO">227</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Hyde Park Pool of Reflection</SimpleData>
+		<SimpleData name="LocalityPrecinct">Hyde Park South</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.211504543676,-33.8750619428432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">238</SimpleData>
+		<SimpleData name="CAMERA_NO">229</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Museum Station</SimpleData>
+		<SimpleData name="LocalityPrecinct">Hyde Park South</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.21007848876,-33.8760354652319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">239</SimpleData>
+		<SimpleData name="CAMERA_NO">231</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">George St x Wilmot St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street Cinema</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.206680493899,-33.8752939410657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">240</SimpleData>
+		<SimpleData name="CAMERA_NO">232</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Kent St x Albion Ln</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street Cinema</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.205315367546,-33.8754166732849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">241</SimpleData>
+		<SimpleData name="CAMERA_NO">233</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">George St opp Central St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street Cinema</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.206345912978,-33.8755875251091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">242</SimpleData>
+		<SimpleData name="CAMERA_NO">230</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">George St x Bathurst St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street Cinema</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207047081193,-33.8745051839617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">243</SimpleData>
+		<SimpleData name="CAMERA_NO">234</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">George St x Liverpool St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street Cinema</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.206335681701,-33.8764935849355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">244</SimpleData>
+		<SimpleData name="CAMERA_NO">236</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">Sussex St x Goulburn St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Haymarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.204794946067,-33.8775496450514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">245</SimpleData>
+		<SimpleData name="CAMERA_NO">235</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">Dixon St x Factory St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Haymarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.203898180842,-33.8779182942674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">246</SimpleData>
+		<SimpleData name="CAMERA_NO">246</SimpleData>
+		<SimpleData name="Precinct">Transport centre</SimpleData>
+		<SimpleData name="Location">Eddy Ave – Belmore Park South</SimpleData>
+		<SimpleData name="LocalityPrecinct">Belmore Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207108638533,-33.8820930506637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">247</SimpleData>
+		<SimpleData name="CAMERA_NO">245</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Belmore Park - centre</SimpleData>
+		<SimpleData name="LocalityPrecinct">Belmore Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207540786578,-33.8811543312065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">248</SimpleData>
+		<SimpleData name="CAMERA_NO">244</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Pitt St x Hay St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Belmore Park</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207028856144,-33.8799817171491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">249</SimpleData>
+		<SimpleData name="CAMERA_NO">243</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">George St x Hay St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.205355447045,-33.8798297489943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">250</SimpleData>
+		<SimpleData name="CAMERA_NO">239</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">Harbour St x Little Hay St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Haymarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.203448594588,-33.8787688061942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">251</SimpleData>
+		<SimpleData name="CAMERA_NO">241</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">Dixon St x Hay St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Haymarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.204200518196,-33.8795760806094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">252</SimpleData>
+		<SimpleData name="CAMERA_NO">242</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">Ultimo Rd x Thomas St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Haymarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.204031975553,-33.8800913985089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">253</SimpleData>
+		<SimpleData name="CAMERA_NO">240</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">Dixon St x Little Hay St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Haymarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.204151276019,-33.8786598758901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">254</SimpleData>
+		<SimpleData name="CAMERA_NO">238</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">George St x Campbell St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.205600162601,-33.8791630173067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">255</SimpleData>
+		<SimpleData name="CAMERA_NO">205</SimpleData>
+		<SimpleData name="Precinct">Circular Quay</SimpleData>
+		<SimpleData name="Location">First Fleet Park</SimpleData>
+		<SimpleData name="LocalityPrecinct">The Rocks</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.209355419266,-33.8610362167806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">256</SimpleData>
+		<SimpleData name="CAMERA_NO">208</SimpleData>
+		<SimpleData name="Precinct">Circular Quay</SimpleData>
+		<SimpleData name="Location">Alfred St x Loftus St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Circular Quay</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.210635143337,-33.8616502954314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">257</SimpleData>
+		<SimpleData name="CAMERA_NO">250</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Liverpool St x Pitt St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Liverpool Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207950620819,-33.8766052559164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">258</SimpleData>
+		<SimpleData name="CAMERA_NO">249</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Liverpool St - Central local court </SimpleData>
+		<SimpleData name="LocalityPrecinct">Liverpool Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207058929274,-33.8764739163831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">259</SimpleData>
+		<SimpleData name="CAMERA_NO">217</SimpleData>
+		<SimpleData name="Precinct">Sydney Town Hall</SimpleData>
+		<SimpleData name="Location">George St x Druitt St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.206766275579,-33.8729785408568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">260</SimpleData>
+		<SimpleData name="CAMERA_NO">215</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Market St x Pitt St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Pitt Street Mall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.20833806275,-33.8708252985732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">261</SimpleData>
+		<SimpleData name="CAMERA_NO">216</SimpleData>
+		<SimpleData name="Precinct">Sydney Town Hall</SimpleData>
+		<SimpleData name="Location">George St x Park St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207141843433,-33.8728338108432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">262</SimpleData>
+		<SimpleData name="CAMERA_NO">237</SimpleData>
+		<SimpleData name="Precinct">George Street Safety</SimpleData>
+		<SimpleData name="Location">George St x Goulburn St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.205634678058,-33.8776582057428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">263</SimpleData>
+		<SimpleData name="CAMERA_NO">251</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Martin Place x Elizabeth St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Martin Place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.211342621716,-33.8679093238349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">264</SimpleData>
+		<SimpleData name="CAMERA_NO">252</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Martin Place x Castlereagh St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Martin Place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.209699918903,-33.8678010524094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">265</SimpleData>
+		<SimpleData name="CAMERA_NO">265</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Margaret St x York St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Wynyard Station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.205789930885,-33.8651410092138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">266</SimpleData>
+		<SimpleData name="CAMERA_NO">266</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Carrington St x Wynyard St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Wynyard Station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.206373631594,-33.8665267042847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">267</SimpleData>
+		<SimpleData name="CAMERA_NO">254</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Martin Place x George St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Martin Place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207007467967,-33.8672813138398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">268</SimpleData>
+		<SimpleData name="CAMERA_NO">255</SimpleData>
+		<SimpleData name="Precinct">Retail</SimpleData>
+		<SimpleData name="Location">Pitt St Mall - centre</SimpleData>
+		<SimpleData name="LocalityPrecinct">Pitt Street Mall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208325562744,-33.8698056434807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">269</SimpleData>
+		<SimpleData name="CAMERA_NO">259</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Macquarie St x St James Rd</SimpleData>
+		<SimpleData name="LocalityPrecinct">Central Station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.211910609767,-33.8696326113233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">270</SimpleData>
+		<SimpleData name="CAMERA_NO">260</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">College St x Prince Albert Rd</SimpleData>
+		<SimpleData name="LocalityPrecinct">Pitt Street Mall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.213165264122,-33.8705436976066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">271</SimpleData>
+		<SimpleData name="CAMERA_NO">258</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Elizabeth St x Market St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Central Station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.21009716466,-33.8708617088161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">272</SimpleData>
+		<SimpleData name="CAMERA_NO">257</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Elizabeth St between Park St &amp; Market St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Hyde Park North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.209881693143,-33.8725492549548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">273</SimpleData>
+		<SimpleData name="CAMERA_NO">256</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Elizabeth St x Bathurst St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Hyde Park North</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.209635880938,-33.8745482854516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">274</SimpleData>
+		<SimpleData name="CAMERA_NO">248</SimpleData>
+		<SimpleData name="Precinct">Transport centre</SimpleData>
+		<SimpleData name="Location">George St x Regent St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.202453408887,-33.8840556731349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">275</SimpleData>
+		<SimpleData name="CAMERA_NO">261</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Woolloomooloo Park</SimpleData>
+		<SimpleData name="LocalityPrecinct">Woolloomooloo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.221218300511,-33.8709762865646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">276</SimpleData>
+		<SimpleData name="CAMERA_NO">275</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">George St x Grosvenor St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207385376649,-33.8633208947874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">277</SimpleData>
+		<SimpleData name="CAMERA_NO">274</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Pitt St x Bridge St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Pitt Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208817162498,-33.8635358277438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">278</SimpleData>
+		<SimpleData name="CAMERA_NO">253</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Martin Place x Pitt St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Martin Place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208326607969,-33.8676488745188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">279</SimpleData>
+		<SimpleData name="CAMERA_NO">267</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Oxford St x Wentworth St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Oxford Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.212227728351,-33.8770511513815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">280</SimpleData>
+		<SimpleData name="CAMERA_NO">268</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Oxford St x Pelican St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Oxford Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.212882705279,-33.8774887713081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">281</SimpleData>
+		<SimpleData name="CAMERA_NO">269</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Oxford St x Riley St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Oxford Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.214308950675,-33.8786601886635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">282</SimpleData>
+		<SimpleData name="CAMERA_NO">270</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Oxford St x Crown St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Oxford Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.215066432722,-33.8792764484834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">283</SimpleData>
+		<SimpleData name="CAMERA_NO">271</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Oxford St x Palmer St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Oxford Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.21596106659,-33.8800035259561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">284</SimpleData>
+		<SimpleData name="CAMERA_NO">272</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Oxford St x Taylor Sq</SimpleData>
+		<SimpleData name="LocalityPrecinct">Oxford Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.216783193504,-33.8806981497703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">285</SimpleData>
+		<SimpleData name="CAMERA_NO">277</SimpleData>
+		<SimpleData name="Precinct">Retail</SimpleData>
+		<SimpleData name="Location">Bay St x Grose St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Glebe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.195067048189,-33.8835953753491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">286</SimpleData>
+		<SimpleData name="CAMERA_NO">278</SimpleData>
+		<SimpleData name="Precinct">Retail</SimpleData>
+		<SimpleData name="Location">Broadway x City Rd</SimpleData>
+		<SimpleData name="LocalityPrecinct">Glebe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.194622049185,-33.8846119790356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">287</SimpleData>
+		<SimpleData name="CAMERA_NO">273</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Campbell St x Bourke St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Oxford Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.216654779909,-33.8811095965593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">288</SimpleData>
+		<SimpleData name="CAMERA_NO">276</SimpleData>
+		<SimpleData name="Precinct">Transport centre</SimpleData>
+		<SimpleData name="Location">Elizabeth St x Foveaux St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Central Station</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208438297158,-33.8834284347492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">289</SimpleData>
+		<SimpleData name="CAMERA_NO">281</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Glebe Point Rd </SimpleData>
+		<SimpleData name="LocalityPrecinct">Glebe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.191686809625,-33.8836092738906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">290</SimpleData>
+		<SimpleData name="CAMERA_NO">279</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Town Hall House after hours entry</SimpleData>
+		<SimpleData name="LocalityPrecinct">Sydney Town Hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.205354832508,-33.8731862853552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">291</SimpleData>
+		<SimpleData name="CAMERA_NO">280</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Kent St x Druitt St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Sydney Town Hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.205267453134,-33.8732990936288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">292</SimpleData>
+		<SimpleData name="CAMERA_NO">282</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Darlinghurst Rd x Macleay St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.224896617373,-33.873026805966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">293</SimpleData>
+		<SimpleData name="CAMERA_NO">283</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Springfield Mall</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.223930578892,-33.8734240007421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">294</SimpleData>
+		<SimpleData name="CAMERA_NO">284</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Roslyn St x Kellet St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.22491268558,-33.8739002750745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">295</SimpleData>
+		<SimpleData name="CAMERA_NO">285</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Darlinghurst Rd</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.223377776694,-33.8738930489045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">296</SimpleData>
+		<SimpleData name="CAMERA_NO">286</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Darlinghurst Rd x Bayswater Rd</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.222749495602,-33.8746277877327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">297</SimpleData>
+		<SimpleData name="CAMERA_NO">287</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Bayswater Rd x Kellet St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.223112763691,-33.8748797802282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">298</SimpleData>
+		<SimpleData name="CAMERA_NO">288</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Bayswater Rd</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.22382435599,-33.8751241092098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">299</SimpleData>
+		<SimpleData name="CAMERA_NO">290</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Darlinghurst Rd x William St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.2218457835,-33.8754171974554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">300</SimpleData>
+		<SimpleData name="CAMERA_NO">262</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Sussex St x Druitt St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Sydney Town Hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.204256213644,-33.8730427364823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">301</SimpleData>
+		<SimpleData name="CAMERA_NO">263</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">Sussex St x Liverpool St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Haymarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.204443695708,-33.8760295116852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">302</SimpleData>
+		<SimpleData name="CAMERA_NO">264</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">George St x Rawson St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Haymarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.2047213893,-33.8810014298439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">303</SimpleData>
+		<SimpleData name="CAMERA_NO">291</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">William St x Forbes St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.219045682561,-33.8748595454332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">304</SimpleData>
+		<SimpleData name="CAMERA_NO">292</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">William St x Crown St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.216182364386,-33.8742035816813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">305</SimpleData>
+		<SimpleData name="CAMERA_NO">293</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Park St x Castlereagh St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Sydney Town Hall</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.20929810793,-33.873339394242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">306</SimpleData>
+		<SimpleData name="CAMERA_NO">294</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Castlereagh St x Liverpool St</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street Cinema</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208681607722,-33.8768349625419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">307</SimpleData>
+		<SimpleData name="CAMERA_NO">295</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">Pitt St x Goulburn St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Haymarket</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207532651398,-33.8779703157289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">308</SimpleData>
+		<SimpleData name="CAMERA_NO">296</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Darlinghurst Rd x Llankelly Pl</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.224274369296,-33.873297270895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">309</SimpleData>
+		<SimpleData name="CAMERA_NO">489</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Victoria St – fixed</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.222238043741,-33.8749358613609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">310</SimpleData>
+		<SimpleData name="CAMERA_NO">289</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Darlinghurst Rd x Victoria St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.222238043741,-33.8749358613609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">311</SimpleData>
+		<SimpleData name="CAMERA_NO">297</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Oxford St x Darlinghurst Rd</SimpleData>
+		<SimpleData name="LocalityPrecinct">Oxford Street</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.218347973483,-33.8811584420812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">312</SimpleData>
+		<SimpleData name="CAMERA_NO">298</SimpleData>
+		<SimpleData name="Precinct">Parkland</SimpleData>
+		<SimpleData name="Location">Cathedral St x Forbes St (Walla Mulla Park)</SimpleData>
+		<SimpleData name="LocalityPrecinct">Woolloomooloo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.219441726129,-33.8729253114334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">313</SimpleData>
+		<SimpleData name="CAMERA_NO">299</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Butlers Stairs x Victoria St </SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.222635269616,-33.8721028689933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">314</SimpleData>
+		<SimpleData name="CAMERA_NO">488</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Bayswater Rd Taxi Rank</SimpleData>
+		<SimpleData name="LocalityPrecinct">Kings Cross</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.223368616237,-33.8750452458608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">315</SimpleData>
+		<SimpleData name="CAMERA_NO">474</SimpleData>
+		<SimpleData name="Precinct">Circular Quay</SimpleData>
+		<SimpleData name="Location">Pitt Street North Taxi Rank</SimpleData>
+		<SimpleData name="LocalityPrecinct">Circular Quay</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.209134600353,-33.8617595761912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">316</SimpleData>
+		<SimpleData name="CAMERA_NO">430</SimpleData>
+		<SimpleData name="Precinct">Entertainment</SimpleData>
+		<SimpleData name="Location">Bathurst St Taxi Rank</SimpleData>
+		<SimpleData name="LocalityPrecinct">George Street Cinema</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.206105210059,-33.8742513210652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">317</SimpleData>
+		<SimpleData name="CAMERA_NO">452</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Pitt St Taxi Rank</SimpleData>
+		<SimpleData name="LocalityPrecinct">Martin Place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208543798912,-33.8672547453574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">318</SimpleData>
+		<SimpleData name="CAMERA_NO">453</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Martin Place Cenotaph East</SimpleData>
+		<SimpleData name="LocalityPrecinct">Martin Place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.208326607969,-33.8676488745188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">319</SimpleData>
+		<SimpleData name="CAMERA_NO">454</SimpleData>
+		<SimpleData name="Precinct">Commercial</SimpleData>
+		<SimpleData name="Location">Martin Place Cenotaph West</SimpleData>
+		<SimpleData name="LocalityPrecinct">Martin Place</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.207007467967,-33.8672813138398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#8a39f1d7_f637_434c_93e8_28fea125d39c2020329_1_16macvp.ynqr">
+		<SimpleData name="OBJECTID">320</SimpleData>
+		<SimpleData name="CAMERA_NO">247</SimpleData>
+		<SimpleData name="Precinct">Chinatown</SimpleData>
+		<SimpleData name="Location">Railway Square – George St x Quay St</SimpleData>
+		<SimpleData name="LocalityPrecinct">Railway Square</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>151.203914642353,-33.8826190786906</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
