@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrafficCam NSW</string>
+    <string name="loading_cameras">Loading cameras…</string>
+    <string name="error_loading">Failed to load cameras</string>
+    <string name="retry">Retry</string>
+    <string name="no_cameras_found">No cameras found</string>
+    <string name="camera_feed">Live Camera Feed</string>
+    <string name="refresh">Refresh</string>
+    <string name="open_in_browser">Open in Browser</string>
+    <string name="direction">Direction</string>
+    <string name="location_permission_required">Location permission is required to show your position on the map</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="error_loading_image">Failed to load image</string>
+    <string name="search_cameras">Search cameras…</string>
+    <string name="camera_list">Camera List</string>
+    <string name="map">Map</string>
+    <string name="live">LIVE</string>
+    <string name="last_updated">Last updated: %1$s</string>
+    <string name="tap_to_view">Tap a camera on the map to view live feed</string>
+</resources>
